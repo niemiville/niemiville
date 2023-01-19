@@ -1,16 +1,25 @@
-### Hi there 👋
+### About me
 
-<!--
-**niemiville/niemiville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's degree in Computer Science. Interested in web development with emphasis on frontend development. Mainly used React (MERN stack).
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter Thread Maker](https://github.com/niemiville/twitter-thread-maker) | [Live page](https://niemiville.github.io/twitter-thread-maker/)
+
+**Description:** React app that slices a long message into tweetable parts for Twitter.
+**Used technologies:** ReactJS, Material UI (MUI)
+
+[Online Forum](https://github.com/niemiville/online-forum)
+
+**Description:** A simple online forum built with MERN stack
+**Used technologies:** MongoDB, Express, ReactJS, Node.js and React Bootstrap
+
+[Metrics Monitoring Tool 5.0](https://github.com/niemiville/mmt-5) | [Live page](https://metricsmonitoring.rd.tuni.fi/projects/about)
+
+**Description:** On group project course I was part of group of six students and we further developed Metrics Monitoring Tool (MMT) webpage's version 5.0. The page is used on university project courses to monitor the use of time and to report progress in projects.
+**Used technologies:** CakePHP, HTML, CSS
+
+[Reaktor pre-assignment 2023 - Birdnest](https://github.com/niemiville/reaktor-birdnest) | [Live page](https://niemiville.github.io/reaktor-birdnest/)
+
+**Description:** Fetches data from API made by Reaktor (a company), stores and processes it in Node.js backend and sends it to ReactJS frontend. The data is imaginary data about drones violating no drone zone around birdnest. 
+**Used technologies:** MongoDB, Express, ReactJS, Node.js
