@@ -1,6 +1,6 @@
 ## About me
 
-Master's degree in Computer Science. Interested in web development with emphasis on frontend development. Mainly used React (MERN stack).  
+Master's degree in Computer Science. Interested and most experienced in web development. Mainly used React (MERN stack).  
 
 ## Tech stack
 
