@@ -1,13 +1,13 @@
 ## About me
 
-Master's degree in Computer Science. Interested and most experienced in web development. Mainly used React (MERN stack).  
+Master's degree in Computer Science. Interested and most experienced in web development. Mainly used React and PERN stack.  
 
 ## Tech stack
 
-**Web development:** React, JavaScript, HTML, CSS, Express.  
+**Web development:** React, JavaScript, TypeScript, HTML, CSS, Express, Next.js, Spring Boot.  
 **Programming languages:** Python, Java, C.  
 **Databases:** MongoDB, PostreSQL.  
-**Other:** Git version control, Docker, Oracle VM VirtualBox, Trello project management tool.  
+**Other:** Git version control, Docker, Oracle VM VirtualBox, Trello project management tool, VSCode.  
 
 ## Projects
 
@@ -25,4 +25,4 @@ Master's degree in Computer Science. Interested and most experienced in web deve
 
 [Reaktor pre-assignment 2023 - Birdnest](https://github.com/niemiville/reaktor-birdnest) | [Live page](https://niemiville.github.io/reaktor-birdnest/)  
 **Description:** Fetches data from API made by Reaktor (a company), stores and processes it in Node.js backend and sends it to ReactJS frontend. The data is imaginary data about drones violating no drone zone around birdnest.  
-**Used technologies:** MongoDB, Express, ReactJS, Node.js.  
+**Used technologies:** ReactJS, Node.js, Express.  
