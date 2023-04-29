@@ -6,7 +6,7 @@ Master's degree in Computer Science. Interested and most experienced in web deve
 
 **Web development:** React, JavaScript, TypeScript, HTML, CSS, Express, Next.js, Spring Boot.  
 **Programming languages:** Python, Java, C.  
-**Databases:** MongoDB, PostreSQL.  
+**Databases:** MongoDB, PostgreSQL.  
 **Other:** Git version control, Docker, Oracle VM VirtualBox, Trello project management tool, VSCode.  
 
 ## Projects
